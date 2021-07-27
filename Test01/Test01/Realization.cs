@@ -30,7 +30,7 @@ namespace Test01.Test01
             }
         }
 
-        public async void Run()
+        public void Run()
         {
             Task[] tasks;
             Task<double> summ;
